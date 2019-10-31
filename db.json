@@ -1,4 +1,4 @@
 {
-  "name" : "test_json_name1",
-  "action" : "test_action1"
+  "name" : {"test_json_name1"},
+  "action" : {"test_action1"}
 }
